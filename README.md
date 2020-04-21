@@ -1,2 +1,2 @@
-# flappy-birdd
-This is my project on flappy bird game
+# flappy-bird
+This is repository for my summer project game - Flappy Bird
